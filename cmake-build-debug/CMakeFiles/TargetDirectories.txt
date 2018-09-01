@@ -1,0 +1,3 @@
+/home/phyorch/PROJECT/zed_grabber/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/phyorch/PROJECT/zed_grabber/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/phyorch/PROJECT/zed_grabber/cmake-build-debug/CMakeFiles/ZED_Camera_Control.dir
